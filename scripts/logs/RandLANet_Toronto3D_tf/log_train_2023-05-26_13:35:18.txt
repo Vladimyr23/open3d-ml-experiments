@@ -1,0 +1,847 @@
+Writing summary in train_log/00003_RandLANet_Toronto3D_tf.
+Restored from ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-2
+=== EPOCH 0/200 ===
+loss train: 6.435  eval: 4.593
+acc train: 0.601  eval: 0.568
+iou train: 0.345  eval: 0.305
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-3
+=== EPOCH 1/200 ===
+loss train: 5.831  eval: 4.196
+acc train: 0.632  eval: 0.609
+iou train: 0.372  eval: 0.400
+=== EPOCH 2/200 ===
+loss train: 5.221  eval: 3.448
+acc train: 0.655  eval: 0.602
+iou train: 0.391  eval: 0.345
+=== EPOCH 3/200 ===
+loss train: 4.860  eval: 2.620
+acc train: 0.671  eval: 0.736
+iou train: 0.398  eval: 0.430
+=== EPOCH 4/200 ===
+loss train: 5.714  eval: 2.403
+acc train: 0.648  eval: 0.795
+iou train: 0.387  eval: 0.382
+=== EPOCH 5/200 ===
+loss train: 4.905  eval: 3.138
+acc train: 0.696  eval: 0.701
+iou train: 0.429  eval: 0.492
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-4
+=== EPOCH 6/200 ===
+loss train: 4.563  eval: 2.501
+acc train: 0.700  eval: 0.721
+iou train: 0.431  eval: 0.516
+=== EPOCH 7/200 ===
+loss train: 4.478  eval: 2.701
+acc train: 0.716  eval: 0.756
+iou train: 0.453  eval: 0.455
+=== EPOCH 8/200 ===
+loss train: 4.769  eval: 4.487
+acc train: 0.713  eval: 0.658
+iou train: 0.460  eval: 0.410
+=== EPOCH 9/200 ===
+loss train: 4.113  eval: 2.987
+acc train: 0.724  eval: 0.692
+iou train: 0.455  eval: 0.420
+=== EPOCH 10/200 ===
+loss train: 3.893  eval: 2.318
+acc train: 0.743  eval: 0.728
+iou train: 0.491  eval: 0.493
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-5
+=== EPOCH 11/200 ===
+loss train: 3.754  eval: 3.581
+acc train: 0.753  eval: 0.696
+iou train: 0.488  eval: 0.475
+=== EPOCH 12/200 ===
+loss train: 3.492  eval: 2.363
+acc train: 0.774  eval: 0.740
+iou train: 0.520  eval: 0.513
+=== EPOCH 13/200 ===
+loss train: 3.831  eval: 4.177
+acc train: 0.762  eval: 0.649
+iou train: 0.516  eval: 0.481
+=== EPOCH 14/200 ===
+loss train: 3.769  eval: 2.469
+acc train: 0.783  eval: 0.751
+iou train: 0.515  eval: 0.483
+=== EPOCH 15/200 ===
+loss train: 3.843  eval: 2.503
+acc train: 0.778  eval: 0.762
+iou train: 0.492  eval: 0.567
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-6
+=== EPOCH 16/200 ===
+loss train: 3.182  eval: 3.794
+acc train: 0.776  eval: 0.718
+iou train: 0.530  eval: 0.487
+=== EPOCH 17/200 ===
+loss train: 3.581  eval: 2.400
+acc train: 0.783  eval: 0.734
+iou train: 0.521  eval: 0.472
+=== EPOCH 18/200 ===
+loss train: 3.228  eval: 1.942
+acc train: 0.798  eval: 0.752
+iou train: 0.547  eval: 0.534
+=== EPOCH 19/200 ===
+loss train: 2.886  eval: 1.727
+acc train: 0.815  eval: 0.762
+iou train: 0.554  eval: 0.588
+=== EPOCH 20/200 ===
+loss train: 4.158  eval: 2.053
+acc train: 0.771  eval: 0.745
+iou train: 0.512  eval: 0.516
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-7
+=== EPOCH 21/200 ===
+loss train: 3.750  eval: 2.069
+acc train: 0.772  eval: 0.810
+iou train: 0.510  eval: 0.571
+=== EPOCH 22/200 ===
+loss train: 2.989  eval: 1.305
+acc train: 0.805  eval: 0.851
+iou train: 0.545  eval: 0.583
+=== EPOCH 23/200 ===
+loss train: 3.058  eval: 3.164
+acc train: 0.832  eval: 0.796
+iou train: 0.576  eval: 0.484
+=== EPOCH 24/200 ===
+loss train: 2.917  eval: 1.691
+acc train: 0.827  eval: 0.874
+iou train: 0.572  eval: 0.627
+=== EPOCH 25/200 ===
+loss train: 2.538  eval: 1.666
+acc train: 0.830  eval: 0.842
+iou train: 0.577  eval: 0.559
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-8
+=== EPOCH 26/200 ===
+loss train: 3.312  eval: 2.805
+acc train: 0.801  eval: 0.789
+iou train: 0.551  eval: 0.546
+=== EPOCH 27/200 ===
+loss train: 2.501  eval: 2.681
+acc train: 0.843  eval: 0.757
+iou train: 0.602  eval: 0.522
+=== EPOCH 28/200 ===
+loss train: 2.825  eval: 2.850
+acc train: 0.824  eval: 0.756
+iou train: 0.575  eval: 0.444
+=== EPOCH 29/200 ===
+loss train: 2.838  eval: 1.576
+acc train: 0.834  eval: 0.882
+iou train: 0.572  eval: 0.661
+=== EPOCH 30/200 ===
+loss train: 2.724  eval: 2.556
+acc train: 0.840  eval: 0.724
+iou train: 0.596  eval: 0.490
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-9
+=== EPOCH 31/200 ===
+loss train: 3.071  eval: 1.925
+acc train: 0.830  eval: 0.776
+iou train: 0.572  eval: 0.542
+=== EPOCH 32/200 ===
+loss train: 2.607  eval: 2.496
+acc train: 0.855  eval: 0.747
+iou train: 0.609  eval: 0.544
+=== EPOCH 33/200 ===
+loss train: 2.532  eval: 1.815
+acc train: 0.849  eval: 0.812
+iou train: 0.600  eval: 0.574
+=== EPOCH 34/200 ===
+loss train: 2.149  eval: 1.682
+acc train: 0.879  eval: 0.823
+iou train: 0.642  eval: 0.580
+=== EPOCH 35/200 ===
+loss train: 2.658  eval: 2.090
+acc train: 0.844  eval: 0.846
+iou train: 0.605  eval: 0.584
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-10
+=== EPOCH 36/200 ===
+loss train: 2.674  eval: 2.551
+acc train: 0.863  eval: 0.737
+iou train: 0.615  eval: 0.576
+=== EPOCH 37/200 ===
+loss train: 2.566  eval: 2.100
+acc train: 0.843  eval: 0.786
+iou train: 0.597  eval: 0.518
+=== EPOCH 38/200 ===
+loss train: 2.720  eval: 1.644
+acc train: 0.837  eval: 0.841
+iou train: 0.586  eval: 0.597
+=== EPOCH 39/200 ===
+loss train: 2.123  eval: 1.802
+acc train: 0.868  eval: 0.799
+iou train: 0.636  eval: 0.584
+=== EPOCH 40/200 ===
+loss train: 2.509  eval: 1.895
+acc train: 0.862  eval: 0.778
+iou train: 0.632  eval: 0.558
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-11
+=== EPOCH 41/200 ===
+loss train: 2.274  eval: 1.584
+acc train: 0.874  eval: 0.868
+iou train: 0.639  eval: 0.627
+=== EPOCH 42/200 ===
+loss train: 2.254  eval: 3.155
+acc train: 0.871  eval: 0.782
+iou train: 0.629  eval: 0.558
+=== EPOCH 43/200 ===
+loss train: 1.757  eval: 1.463
+acc train: 0.893  eval: 0.833
+iou train: 0.674  eval: 0.591
+=== EPOCH 44/200 ===
+loss train: 2.435  eval: 2.317
+acc train: 0.855  eval: 0.829
+iou train: 0.622  eval: 0.571
+=== EPOCH 45/200 ===
+loss train: 2.825  eval: 1.685
+acc train: 0.829  eval: 0.881
+iou train: 0.562  eval: 0.640
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-12
+=== EPOCH 46/200 ===
+loss train: 2.249  eval: 1.760
+acc train: 0.874  eval: 0.841
+iou train: 0.651  eval: 0.570
+=== EPOCH 47/200 ===
+loss train: 2.519  eval: 1.907
+acc train: 0.864  eval: 0.793
+iou train: 0.615  eval: 0.605
+=== EPOCH 48/200 ===
+loss train: 2.295  eval: 2.359
+acc train: 0.853  eval: 0.742
+iou train: 0.605  eval: 0.569
+=== EPOCH 49/200 ===
+loss train: 2.193  eval: 2.123
+acc train: 0.867  eval: 0.815
+iou train: 0.640  eval: 0.586
+=== EPOCH 50/200 ===
+loss train: 1.956  eval: 1.910
+acc train: 0.887  eval: 0.808
+iou train: 0.653  eval: 0.619
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-13
+=== EPOCH 51/200 ===
+loss train: 1.958  eval: 2.322
+acc train: 0.874  eval: 0.807
+iou train: 0.651  eval: 0.593
+=== EPOCH 52/200 ===
+loss train: 1.787  eval: 1.994
+acc train: 0.896  eval: 0.866
+iou train: 0.688  eval: 0.634
+=== EPOCH 53/200 ===
+loss train: 1.781  eval: 2.506
+acc train: 0.900  eval: 0.835
+iou train: 0.673  eval: 0.636
+=== EPOCH 54/200 ===
+loss train: 2.163  eval: 1.572
+acc train: 0.883  eval: 0.810
+iou train: 0.652  eval: 0.574
+=== EPOCH 55/200 ===
+loss train: 2.108  eval: 2.507
+acc train: 0.872  eval: 0.766
+iou train: 0.638  eval: 0.532
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-14
+=== EPOCH 56/200 ===
+loss train: 2.351  eval: 2.009
+acc train: 0.878  eval: 0.725
+iou train: 0.652  eval: 0.559
+=== EPOCH 57/200 ===
+loss train: 1.842  eval: 1.344
+acc train: 0.898  eval: 0.890
+iou train: 0.682  eval: 0.649
+=== EPOCH 58/200 ===
+loss train: 2.186  eval: 2.314
+acc train: 0.882  eval: 0.856
+iou train: 0.651  eval: 0.662
+=== EPOCH 59/200 ===
+loss train: 1.922  eval: 1.730
+acc train: 0.894  eval: 0.828
+iou train: 0.673  eval: 0.602
+=== EPOCH 60/200 ===
+loss train: 1.811  eval: 1.947
+acc train: 0.901  eval: 0.772
+iou train: 0.687  eval: 0.607
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-15
+=== EPOCH 61/200 ===
+loss train: 2.208  eval: 3.274
+acc train: 0.876  eval: 0.736
+iou train: 0.647  eval: 0.465
+=== EPOCH 62/200 ===
+loss train: 1.679  eval: 1.688
+acc train: 0.901  eval: 0.792
+iou train: 0.665  eval: 0.691
+=== EPOCH 63/200 ===
+loss train: 1.817  eval: 1.418
+acc train: 0.906  eval: 0.850
+iou train: 0.697  eval: 0.643
+=== EPOCH 64/200 ===
+loss train: 1.572  eval: 1.292
+acc train: 0.910  eval: 0.908
+iou train: 0.695  eval: 0.666
+=== EPOCH 65/200 ===
+loss train: 2.396  eval: 0.858
+acc train: 0.877  eval: 0.813
+iou train: 0.645  eval: 0.658
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-16
+=== EPOCH 66/200 ===
+loss train: 1.580  eval: 1.780
+acc train: 0.908  eval: 0.805
+iou train: 0.685  eval: 0.659
+=== EPOCH 67/200 ===
+loss train: 1.882  eval: 1.219
+acc train: 0.896  eval: 0.846
+iou train: 0.688  eval: 0.682
+=== EPOCH 68/200 ===
+loss train: 1.731  eval: 1.165
+acc train: 0.908  eval: 0.793
+iou train: 0.705  eval: 0.568
+=== EPOCH 69/200 ===
+loss train: 1.774  eval: 1.906
+acc train: 0.899  eval: 0.846
+iou train: 0.673  eval: 0.684
+=== EPOCH 70/200 ===
+loss train: 2.131  eval: 2.052
+acc train: 0.886  eval: 0.798
+iou train: 0.671  eval: 0.611
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-17
+=== EPOCH 71/200 ===
+loss train: 1.611  eval: 1.552
+acc train: 0.909  eval: 0.868
+iou train: 0.704  eval: 0.679
+=== EPOCH 72/200 ===
+loss train: 1.667  eval: 1.421
+acc train: 0.905  eval: 0.841
+iou train: 0.691  eval: 0.672
+=== EPOCH 73/200 ===
+loss train: 2.094  eval: 3.548
+acc train: 0.888  eval: 0.819
+iou train: 0.670  eval: 0.598
+=== EPOCH 74/200 ===
+loss train: 1.992  eval: 2.479
+acc train: 0.890  eval: 0.728
+iou train: 0.673  eval: 0.522
+=== EPOCH 75/200 ===
+loss train: 1.896  eval: 1.713
+acc train: 0.898  eval: 0.787
+iou train: 0.668  eval: 0.603
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-18
+=== EPOCH 76/200 ===
+loss train: 1.583  eval: 1.471
+acc train: 0.898  eval: 0.841
+iou train: 0.695  eval: 0.681
+=== EPOCH 77/200 ===
+loss train: 1.442  eval: 2.381
+acc train: 0.916  eval: 0.815
+iou train: 0.700  eval: 0.623
+=== EPOCH 78/200 ===
+loss train: 1.918  eval: 1.948
+acc train: 0.888  eval: 0.851
+iou train: 0.663  eval: 0.614
+=== EPOCH 79/200 ===
+loss train: 2.342  eval: 2.186
+acc train: 0.863  eval: 0.701
+iou train: 0.629  eval: 0.597
+=== EPOCH 80/200 ===
+loss train: 1.955  eval: 1.530
+acc train: 0.899  eval: 0.863
+iou train: 0.687  eval: 0.685
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-19
+=== EPOCH 81/200 ===
+loss train: 1.790  eval: 2.135
+acc train: 0.900  eval: 0.843
+iou train: 0.698  eval: 0.588
+=== EPOCH 82/200 ===
+loss train: 2.349  eval: 1.074
+acc train: 0.870  eval: 0.849
+iou train: 0.638  eval: 0.659
+=== EPOCH 83/200 ===
+loss train: 1.701  eval: 2.740
+acc train: 0.901  eval: 0.812
+iou train: 0.704  eval: 0.565
+=== EPOCH 84/200 ===
+loss train: 1.525  eval: 1.914
+acc train: 0.916  eval: 0.884
+iou train: 0.724  eval: 0.638
+=== EPOCH 85/200 ===
+loss train: 1.912  eval: 1.884
+acc train: 0.908  eval: 0.749
+iou train: 0.700  eval: 0.592
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-20
+=== EPOCH 86/200 ===
+loss train: 1.495  eval: 1.077
+acc train: 0.914  eval: 0.918
+iou train: 0.715  eval: 0.742
+=== EPOCH 87/200 ===
+loss train: 1.394  eval: 1.666
+acc train: 0.916  eval: 0.779
+iou train: 0.719  eval: 0.673
+=== EPOCH 88/200 ===
+loss train: 1.737  eval: 1.378
+acc train: 0.901  eval: 0.815
+iou train: 0.701  eval: 0.654
+=== EPOCH 89/200 ===
+loss train: 1.434  eval: 0.984
+acc train: 0.922  eval: 0.872
+iou train: 0.738  eval: 0.697
+=== EPOCH 90/200 ===
+loss train: 1.610  eval: 1.368
+acc train: 0.907  eval: 0.856
+iou train: 0.700  eval: 0.704
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-21
+=== EPOCH 91/200 ===
+loss train: 1.482  eval: 2.029
+acc train: 0.914  eval: 0.835
+iou train: 0.718  eval: 0.653
+=== EPOCH 92/200 ===
+loss train: 1.456  eval: 1.075
+acc train: 0.914  eval: 0.863
+iou train: 0.708  eval: 0.711
+=== EPOCH 93/200 ===
+loss train: 1.329  eval: 2.153
+acc train: 0.919  eval: 0.792
+iou train: 0.729  eval: 0.656
+=== EPOCH 94/200 ===
+loss train: 1.458  eval: 3.610
+acc train: 0.907  eval: 0.798
+iou train: 0.695  eval: 0.603
+=== EPOCH 95/200 ===
+loss train: 1.815  eval: 1.098
+acc train: 0.903  eval: 0.886
+iou train: 0.670  eval: 0.723
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-22
+=== EPOCH 96/200 ===
+loss train: 1.794  eval: 5.059
+acc train: 0.903  eval: 0.750
+iou train: 0.709  eval: 0.491
+=== EPOCH 97/200 ===
+loss train: 1.693  eval: 1.770
+acc train: 0.909  eval: 0.752
+iou train: 0.711  eval: 0.613
+=== EPOCH 98/200 ===
+loss train: 1.567  eval: 0.950
+acc train: 0.916  eval: 0.913
+iou train: 0.730  eval: 0.718
+=== EPOCH 99/200 ===
+loss train: 1.325  eval: 0.973
+acc train: 0.925  eval: 0.931
+iou train: 0.725  eval: 0.751
+=== EPOCH 100/200 ===
+loss train: 1.403  eval: 1.147
+acc train: 0.903  eval: 0.837
+iou train: 0.702  eval: 0.627
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-23
+=== EPOCH 101/200 ===
+loss train: 1.407  eval: 1.780
+acc train: 0.923  eval: 0.767
+iou train: 0.725  eval: 0.609
+=== EPOCH 102/200 ===
+loss train: 1.301  eval: 1.078
+acc train: 0.929  eval: 0.853
+iou train: 0.753  eval: 0.693
+=== EPOCH 103/200 ===
+loss train: 1.408  eval: 1.529
+acc train: 0.917  eval: 0.863
+iou train: 0.729  eval: 0.662
+=== EPOCH 104/200 ===
+loss train: 1.632  eval: 1.238
+acc train: 0.901  eval: 0.874
+iou train: 0.705  eval: 0.672
+=== EPOCH 105/200 ===
+loss train: 1.457  eval: 1.097
+acc train: 0.903  eval: 0.890
+iou train: 0.698  eval: 0.652
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-24
+=== EPOCH 106/200 ===
+loss train: 1.890  eval: 1.717
+acc train: 0.891  eval: 0.744
+iou train: 0.689  eval: 0.599
+=== EPOCH 107/200 ===
+loss train: 1.751  eval: 2.119
+acc train: 0.903  eval: 0.802
+iou train: 0.684  eval: 0.642
+=== EPOCH 108/200 ===
+loss train: 1.304  eval: 1.323
+acc train: 0.923  eval: 0.904
+iou train: 0.725  eval: 0.672
+=== EPOCH 109/200 ===
+loss train: 2.187  eval: 2.433
+acc train: 0.896  eval: 0.781
+iou train: 0.686  eval: 0.602
+=== EPOCH 110/200 ===
+loss train: 2.204  eval: 1.882
+acc train: 0.894  eval: 0.865
+iou train: 0.685  eval: 0.565
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-25
+=== EPOCH 111/200 ===
+loss train: 1.328  eval: 0.946
+acc train: 0.920  eval: 0.913
+iou train: 0.706  eval: 0.680
+=== EPOCH 112/200 ===
+loss train: 1.438  eval: 1.733
+acc train: 0.920  eval: 0.857
+iou train: 0.724  eval: 0.636
+=== EPOCH 113/200 ===
+loss train: 1.406  eval: 1.328
+acc train: 0.928  eval: 0.835
+iou train: 0.740  eval: 0.648
+=== EPOCH 114/200 ===
+loss train: 1.427  eval: 2.266
+acc train: 0.922  eval: 0.785
+iou train: 0.732  eval: 0.643
+=== EPOCH 115/200 ===
+loss train: 1.573  eval: 1.824
+acc train: 0.912  eval: 0.813
+iou train: 0.718  eval: 0.700
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-26
+=== EPOCH 116/200 ===
+loss train: 1.523  eval: 2.483
+acc train: 0.915  eval: 0.787
+iou train: 0.725  eval: 0.656
+=== EPOCH 117/200 ===
+loss train: 1.431  eval: 1.093
+acc train: 0.916  eval: 0.913
+iou train: 0.705  eval: 0.685
+=== EPOCH 118/200 ===
+loss train: 1.305  eval: 1.456
+acc train: 0.923  eval: 0.863
+iou train: 0.739  eval: 0.687
+=== EPOCH 119/200 ===
+loss train: 1.445  eval: 2.951
+acc train: 0.918  eval: 0.786
+iou train: 0.719  eval: 0.656
+=== EPOCH 120/200 ===
+loss train: 1.534  eval: 1.169
+acc train: 0.921  eval: 0.867
+iou train: 0.734  eval: 0.712
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-27
+=== EPOCH 121/200 ===
+loss train: 1.300  eval: 1.261
+acc train: 0.924  eval: 0.892
+iou train: 0.737  eval: 0.687
+=== EPOCH 122/200 ===
+loss train: 1.223  eval: 1.589
+acc train: 0.931  eval: 0.880
+iou train: 0.775  eval: 0.667
+=== EPOCH 123/200 ===
+loss train: 1.712  eval: 1.309
+acc train: 0.906  eval: 0.908
+iou train: 0.709  eval: 0.660
+=== EPOCH 124/200 ===
+loss train: 1.162  eval: 1.552
+acc train: 0.935  eval: 0.876
+iou train: 0.755  eval: 0.690
+=== EPOCH 125/200 ===
+loss train: 1.186  eval: 1.390
+acc train: 0.931  eval: 0.843
+iou train: 0.756  eval: 0.682
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-28
+=== EPOCH 126/200 ===
+loss train: 1.194  eval: 1.343
+acc train: 0.930  eval: 0.858
+iou train: 0.754  eval: 0.629
+=== EPOCH 127/200 ===
+loss train: 1.148  eval: 1.849
+acc train: 0.937  eval: 0.749
+iou train: 0.757  eval: 0.604
+=== EPOCH 128/200 ===
+loss train: 1.231  eval: 0.989
+acc train: 0.929  eval: 0.899
+iou train: 0.745  eval: 0.736
+=== EPOCH 129/200 ===
+loss train: 1.047  eval: 1.207
+acc train: 0.932  eval: 0.857
+iou train: 0.756  eval: 0.700
+=== EPOCH 130/200 ===
+loss train: 1.187  eval: 1.370
+acc train: 0.931  eval: 0.870
+iou train: 0.759  eval: 0.681
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-29
+=== EPOCH 131/200 ===
+loss train: 1.365  eval: 1.547
+acc train: 0.917  eval: 0.881
+iou train: 0.716  eval: 0.632
+=== EPOCH 132/200 ===
+loss train: 1.160  eval: 3.181
+acc train: 0.933  eval: 0.873
+iou train: 0.763  eval: 0.683
+=== EPOCH 133/200 ===
+loss train: 1.253  eval: 1.392
+acc train: 0.930  eval: 0.869
+iou train: 0.754  eval: 0.632
+=== EPOCH 134/200 ===
+loss train: 1.512  eval: 1.879
+acc train: 0.914  eval: 0.754
+iou train: 0.731  eval: 0.609
+=== EPOCH 135/200 ===
+loss train: 1.362  eval: 2.404
+acc train: 0.923  eval: 0.776
+iou train: 0.723  eval: 0.662
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-30
+=== EPOCH 136/200 ===
+loss train: 1.298  eval: 2.183
+acc train: 0.927  eval: 0.856
+iou train: 0.750  eval: 0.704
+=== EPOCH 137/200 ===
+loss train: 1.714  eval: 2.260
+acc train: 0.913  eval: 0.872
+iou train: 0.706  eval: 0.634
+=== EPOCH 138/200 ===
+loss train: 1.332  eval: 2.624
+acc train: 0.923  eval: 0.812
+iou train: 0.729  eval: 0.649
+=== EPOCH 139/200 ===
+loss train: 1.206  eval: 0.820
+acc train: 0.928  eval: 0.874
+iou train: 0.757  eval: 0.718
+=== EPOCH 140/200 ===
+loss train: 1.523  eval: 1.030
+acc train: 0.913  eval: 0.928
+iou train: 0.718  eval: 0.754
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-31
+=== EPOCH 141/200 ===
+loss train: 1.232  eval: 1.815
+acc train: 0.928  eval: 0.874
+iou train: 0.750  eval: 0.746
+=== EPOCH 142/200 ===
+loss train: 1.309  eval: 1.312
+acc train: 0.923  eval: 0.832
+iou train: 0.748  eval: 0.657
+=== EPOCH 143/200 ===
+loss train: 1.043  eval: 2.030
+acc train: 0.937  eval: 0.829
+iou train: 0.758  eval: 0.652
+=== EPOCH 144/200 ===
+loss train: 1.153  eval: 1.163
+acc train: 0.932  eval: 0.868
+iou train: 0.758  eval: 0.595
+=== EPOCH 145/200 ===
+loss train: 1.499  eval: 2.957
+acc train: 0.924  eval: 0.826
+iou train: 0.746  eval: 0.622
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-32
+=== EPOCH 146/200 ===
+loss train: 1.163  eval: 2.309
+acc train: 0.936  eval: 0.806
+iou train: 0.770  eval: 0.647
+=== EPOCH 147/200 ===
+loss train: 1.193  eval: 1.978
+acc train: 0.926  eval: 0.892
+iou train: 0.736  eval: 0.684
+=== EPOCH 148/200 ===
+loss train: 1.203  eval: 1.306
+acc train: 0.931  eval: 0.882
+iou train: 0.752  eval: 0.692
+=== EPOCH 149/200 ===
+loss train: 1.070  eval: 1.650
+acc train: 0.934  eval: 0.860
+iou train: 0.764  eval: 0.723
+=== EPOCH 150/200 ===
+loss train: 1.173  eval: 1.184
+acc train: 0.931  eval: 0.906
+iou train: 0.755  eval: 0.664
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-33
+=== EPOCH 151/200 ===
+loss train: 1.190  eval: 1.629
+acc train: 0.922  eval: 0.845
+iou train: 0.750  eval: 0.680
+=== EPOCH 152/200 ===
+loss train: 1.299  eval: 3.549
+acc train: 0.925  eval: 0.803
+iou train: 0.740  eval: 0.647
+=== EPOCH 153/200 ===
+loss train: 1.370  eval: 2.834
+acc train: 0.927  eval: 0.819
+iou train: 0.747  eval: 0.614
+=== EPOCH 154/200 ===
+loss train: 1.590  eval: 1.414
+acc train: 0.908  eval: 0.856
+iou train: 0.706  eval: 0.658
+=== EPOCH 155/200 ===
+loss train: 1.500  eval: 1.171
+acc train: 0.922  eval: 0.850
+iou train: 0.732  eval: 0.679
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-34
+=== EPOCH 156/200 ===
+loss train: 1.230  eval: 1.376
+acc train: 0.929  eval: 0.789
+iou train: 0.757  eval: 0.693
+=== EPOCH 157/200 ===
+loss train: 1.501  eval: 2.268
+acc train: 0.918  eval: 0.844
+iou train: 0.736  eval: 0.691
+=== EPOCH 158/200 ===
+loss train: 1.217  eval: 1.131
+acc train: 0.935  eval: 0.905
+iou train: 0.757  eval: 0.682
+=== EPOCH 159/200 ===
+loss train: 1.050  eval: 0.883
+acc train: 0.935  eval: 0.909
+iou train: 0.769  eval: 0.752
+=== EPOCH 160/200 ===
+loss train: 1.258  eval: 1.359
+acc train: 0.937  eval: 0.911
+iou train: 0.773  eval: 0.687
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-35
+=== EPOCH 161/200 ===
+loss train: 1.519  eval: 1.328
+acc train: 0.910  eval: 0.862
+iou train: 0.711  eval: 0.680
+=== EPOCH 162/200 ===
+loss train: 0.995  eval: 1.066
+acc train: 0.942  eval: 0.856
+iou train: 0.781  eval: 0.728
+=== EPOCH 163/200 ===
+loss train: 1.310  eval: 1.509
+acc train: 0.919  eval: 0.902
+iou train: 0.741  eval: 0.754
+=== EPOCH 164/200 ===
+loss train: 1.868  eval: 1.223
+acc train: 0.904  eval: 0.902
+iou train: 0.698  eval: 0.629
+=== EPOCH 165/200 ===
+loss train: 1.441  eval: 1.609
+acc train: 0.922  eval: 0.879
+iou train: 0.732  eval: 0.672
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-36
+=== EPOCH 166/200 ===
+loss train: 1.620  eval: 1.494
+acc train: 0.919  eval: 0.781
+iou train: 0.718  eval: 0.651
+=== EPOCH 167/200 ===
+loss train: 1.840  eval: 1.740
+acc train: 0.914  eval: 0.838
+iou train: 0.719  eval: 0.688
+=== EPOCH 168/200 ===
+loss train: 1.515  eval: 1.962
+acc train: 0.917  eval: 0.826
+iou train: 0.725  eval: 0.547
+=== EPOCH 169/200 ===
+loss train: 1.313  eval: 0.902
+acc train: 0.925  eval: 0.929
+iou train: 0.742  eval: 0.695
+=== EPOCH 170/200 ===
+loss train: 1.346  eval: 1.771
+acc train: 0.927  eval: 0.775
+iou train: 0.756  eval: 0.678
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-37
+=== EPOCH 171/200 ===
+loss train: 1.272  eval: 1.345
+acc train: 0.928  eval: 0.894
+iou train: 0.752  eval: 0.721
+=== EPOCH 172/200 ===
+loss train: 0.947  eval: 2.072
+acc train: 0.943  eval: 0.826
+iou train: 0.766  eval: 0.659
+=== EPOCH 173/200 ===
+loss train: 1.007  eval: 1.868
+acc train: 0.939  eval: 0.836
+iou train: 0.785  eval: 0.682
+=== EPOCH 174/200 ===
+loss train: 1.035  eval: 1.016
+acc train: 0.942  eval: 0.905
+iou train: 0.795  eval: 0.677
+=== EPOCH 175/200 ===
+loss train: 0.930  eval: 3.069
+acc train: 0.942  eval: 0.795
+iou train: 0.783  eval: 0.660
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-38
+=== EPOCH 176/200 ===
+loss train: 1.118  eval: 1.796
+acc train: 0.940  eval: 0.830
+iou train: 0.785  eval: 0.675
+=== EPOCH 177/200 ===
+loss train: 1.010  eval: 1.178
+acc train: 0.936  eval: 0.835
+iou train: 0.773  eval: 0.701
+=== EPOCH 178/200 ===
+loss train: 0.920  eval: 2.340
+acc train: 0.942  eval: 0.786
+iou train: 0.767  eval: 0.640
+=== EPOCH 179/200 ===
+loss train: 1.238  eval: 1.558
+acc train: 0.928  eval: 0.796
+iou train: 0.744  eval: 0.668
+=== EPOCH 180/200 ===
+loss train: 1.176  eval: 2.915
+acc train: 0.930  eval: 0.847
+iou train: 0.757  eval: 0.631
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-39
+=== EPOCH 181/200 ===
+loss train: 1.240  eval: 4.168
+acc train: 0.933  eval: 0.760
+iou train: 0.766  eval: 0.636
+=== EPOCH 182/200 ===
+loss train: 1.304  eval: 1.278
+acc train: 0.927  eval: 0.806
+iou train: 0.747  eval: 0.666
+=== EPOCH 183/200 ===
+loss train: 1.283  eval: 1.600
+acc train: 0.930  eval: 0.841
+iou train: 0.763  eval: 0.638
+=== EPOCH 184/200 ===
+loss train: 1.148  eval: 0.989
+acc train: 0.933  eval: 0.894
+iou train: 0.764  eval: 0.765
+=== EPOCH 185/200 ===
+loss train: 0.945  eval: 1.252
+acc train: 0.940  eval: 0.883
+iou train: 0.785  eval: 0.744
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-40
+=== EPOCH 186/200 ===
+loss train: 0.938  eval: 1.309
+acc train: 0.943  eval: 0.809
+iou train: 0.772  eval: 0.671
+=== EPOCH 187/200 ===
+loss train: 1.754  eval: 1.948
+acc train: 0.915  eval: 0.870
+iou train: 0.740  eval: 0.715
+=== EPOCH 188/200 ===
+loss train: 1.089  eval: 1.211
+acc train: 0.935  eval: 0.893
+iou train: 0.783  eval: 0.683
+=== EPOCH 189/200 ===
+loss train: 1.146  eval: 1.626
+acc train: 0.938  eval: 0.792
+iou train: 0.771  eval: 0.703
+=== EPOCH 190/200 ===
+loss train: 0.936  eval: 2.503
+acc train: 0.944  eval: 0.829
+iou train: 0.789  eval: 0.633
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-41
+=== EPOCH 191/200 ===
+loss train: 0.953  eval: 1.827
+acc train: 0.944  eval: 0.827
+iou train: 0.793  eval: 0.658
+=== EPOCH 192/200 ===
+loss train: 0.907  eval: 1.233
+acc train: 0.943  eval: 0.860
+iou train: 0.797  eval: 0.727
+=== EPOCH 193/200 ===
+loss train: 1.635  eval: 1.515
+acc train: 0.920  eval: 0.857
+iou train: 0.728  eval: 0.688
+=== EPOCH 194/200 ===
+loss train: 1.202  eval: 1.739
+acc train: 0.930  eval: 0.873
+iou train: 0.754  eval: 0.644
+=== EPOCH 195/200 ===
+loss train: 1.346  eval: 1.245
+acc train: 0.925  eval: 0.822
+iou train: 0.746  eval: 0.680
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-42
+=== EPOCH 196/200 ===
+loss train: 1.028  eval: 1.370
+acc train: 0.932  eval: 0.793
+iou train: 0.772  eval: 0.661
+=== EPOCH 197/200 ===
+loss train: 1.053  eval: 1.328
+acc train: 0.936  eval: 0.900
+iou train: 0.782  eval: 0.692
+=== EPOCH 198/200 ===
+loss train: 0.979  eval: 1.414
+acc train: 0.939  eval: 0.809
+iou train: 0.777  eval: 0.714
+=== EPOCH 199/200 ===
+loss train: 0.999  eval: 2.851
+acc train: 0.941  eval: 0.829
+iou train: 0.779  eval: 0.668
+=== EPOCH 200/200 ===
+loss train: 1.015  eval: 2.641
+acc train: 0.945  eval: 0.779
+iou train: 0.791  eval: 0.661
+Saved checkpoint at: ./logs/RandLANet_Toronto3D_tf/checkpoint/ckpt-43
